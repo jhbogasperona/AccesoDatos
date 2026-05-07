@@ -1,0 +1,8 @@
+{
+  "label": "UT-3: BBDD Relacionales (JDBC)",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Conexión y gestión de bases de datos relacionales mediante JDBC."
+  }
+}

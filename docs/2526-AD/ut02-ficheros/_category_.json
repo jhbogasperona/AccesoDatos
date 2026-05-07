@@ -1,0 +1,8 @@
+{
+  "label": "UT-2: Gestión de Ficheros",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Trabajo con flujos de datos y archivos en el sistema local."
+  }
+}
