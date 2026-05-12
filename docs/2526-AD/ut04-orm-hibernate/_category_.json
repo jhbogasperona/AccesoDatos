@@ -1,8 +1,0 @@
-{
-  "label": "UT-4: ORM Hibernate",
-  "position": 5,
-  "link": {
-    "type": "generated-index",
-    "description": "Mapeo Objeto-Relacional avanzado con Hibernate y JPA."
-  }
-}

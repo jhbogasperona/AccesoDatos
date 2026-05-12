@@ -1,8 +1,0 @@
-{
-  "label": "UT-1: Introducción a la Persistencia",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Conceptos básicos sobre el almacenamiento de datos y configuración del entorno de desarrollo."
-  }
-}
